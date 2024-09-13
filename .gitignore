@@ -21,3 +21,5 @@ process.yml
 resource.syso
 versioninfo.json
 .uuid
+.envrc
+.tool-versions
